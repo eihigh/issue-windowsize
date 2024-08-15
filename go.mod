@@ -3,7 +3,7 @@ module example.com/game
 go 1.22.4
 
 require (
-	github.com/hajimehoshi/ebiten/v2 v2.7.5
+	github.com/hajimehoshi/ebiten/v2 v2.7.8
 	marwan.io/wasm-fetch v0.1.0
 )
 
